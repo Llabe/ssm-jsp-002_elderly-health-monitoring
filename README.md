@@ -78,7 +78,6 @@ src/
 4. 健康数据录入：
    体温/血压等指标通过ShentizhibiaoController接口提交
    体检报告PDF通过FileController上传
-```
 
 # 项目实际截图：
 ## 登录：
